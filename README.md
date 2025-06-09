@@ -1,6 +1,6 @@
 # NutriKAI 🍽️🤖
 
-**NutriKAI** es una plataforma web inteligente para el monitoreo y recomendación personalizada de macronutrientes, impulsada por modelos de lenguaje natural (NLP) y aprendizaje automático. Está inspirada y basada parcialmente en el repositorio [MachineKe/Diet-Recommendation-System]([https://github.com/zakaria-narjis/Diet-Recommendation-System]), pero extendida con un enfoque más profundo en personalización, comprensión semántica del texto y alertas automáticas.
+**NutriKAI** es una plataforma web inteligente para el monitoreo y recomendación personalizada de macronutrientes, impulsada por modelos de lenguaje natural (NLP) y aprendizaje automático. Está inspirada y basada parcialmente en el repositorio [MachineKe/Diet-Recommendation-System](https://github.com/zakaria-narjis/Diet-Recommendation-System), pero extendida con un enfoque más profundo en personalización, comprensión semántica del texto y alertas automáticas.
 
 ---
 
