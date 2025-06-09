@@ -68,5 +68,5 @@ NutriKAI amplía este enfoque básico para incluir:
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/nutrikai.git
+git clone https://github.com/Katy-Bejar/nutrikai.git
 cd nutrikai
