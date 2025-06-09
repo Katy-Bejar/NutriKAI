@@ -11,7 +11,6 @@
 - [⚙️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
 - [🐳 Ejecución del sistema con Docker](#-ejecución-del-sistema-con-docker)
 - [📸 Evidencia de ejecución](#-evidencia-de-ejecución)
-- [📚 Proyecto de tesis asociado](#-proyecto-de-tesis-asociado)
 - [🪪 Licencia y créditos](#-licencia-y-créditos)
 
 ---
@@ -70,3 +69,40 @@ NutriKAI amplía este enfoque básico para incluir:
 ```bash
 git clone https://github.com/Katy-Bejar/nutrikai.git
 cd nutrikai
+```
+
+2. Construye y levanta los servicios:
+```bash
+docker-compose up --build
+```
+3. Abre tu navegador en:
+```bash
+http://localhost:8501
+```
+
+---
+
+## 📸 Evidencia de ejecución
+
+✅ **1. Compilación con Docker (`docker-compose up`)**  
+Demuestra que el sistema fue levantado correctamente y que los servicios fueron construidos sin errores.
+
+![Compilación exitosa con Docker Compose](evidencias/docker-compose-up.png)
+
+✅ **2. Interfaz funcionando en el navegador**  
+La plataforma web está activa en `http://localhost:8501` y lista para recibir entradas del usuario.
+
+![Interfaz web NutriKAI](evidencias/interfaz-nutrikai.png)
+
+---
+
+
+## 🪪 Licencia y créditos
+
+Este proyecto ha sido desarrollado con fines académicos y de investigación en el marco de una tesis universitaria. Se ha basado e inspirado en el siguiente repositorio:
+
+🔗 Repositorio base original: [MachineKe/Diet-Recommendation-System](https://github.com/MachineKe/Diet-Recommendation-System)
+
+---
+
+
